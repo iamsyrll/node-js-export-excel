@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/iamsyrll" target="blank">Syrll</a></h1>
-<h3 align="center">A simple for exporting data to Excel xlsx file using node.js (Express) & ExcelJS.</h3>
+<h3 align="center">Exporting data set to Excel xlsx file using node.js (Express) & ExcelJS.</h3>
 
 
 <a target="_blank" align="center">A simple for exporting data to Excel xlsx file using node.js (Express).
